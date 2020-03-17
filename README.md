@@ -21,13 +21,10 @@ If you like what you see, simply download the html and start using it yourself. 
 Here is a bare template brain cloud that I suggest using, as it does not have any existing notes yet.
 
 ## What is brain cloud based on?
-It is a tuned web-notebook that is based on an open source project called [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5). Here is what TiddlyWiki has to say:
-
-*Welcome to* <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://tiddlywiki.com/static/TiddlyWiki.html">*TiddlyWiki*</a>, *a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation.*</p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://tiddlywiki.com/static/TiddlyWiki.html">*TiddlyWiki*</a> *is a complete interactive wiki in* <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://tiddlywiki.com/static/JavaScript.html">*JavaScript*</a>. *It can be used as a single HTML file in the browser or as a powerful Node.js application. It is highly customisable: the entire user interface is itself implemented in hackable* <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://tiddlywiki.com/static/WikiText.html">*WikiText*</a>.</p><p>*Learn more and see it in action at* <a class="tc-tiddlylink-external" href="https://tiddlywiki.com/" rel="noopener noreferrer" target="_blank">*https://tiddlywiki.com/*</a></p><p>*Developer documentation is in progress at* <a class="tc-tiddlylink-external" href="https://tiddlywiki.com/dev/" rel="noopener noreferrer" target="_blank">*https://tiddlywiki.com/dev/*</a>
+It is a tuned web-notebook that is based on an open source project called [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5). They describe it as *a complete interactive wiki in JavaScript. It can be used as a single HTML file in the browser or as a powerful Node.js application. It is highly customisable: the entire user interface is itself implemented in hackable WikiText.*
 
 So where does brain cloud fit into this? It represents the completed product of a LOT of hours customizing and tweaking a vanilla flavored TiddlyWiki with a focus on presenting an interface that is tuned for highly productive note taking. 
 
 Put another way, it aims to save you the all work by delivering a ready-to-go system so you can spend less time tweaking and more time learning!
-
 
 ## Features
