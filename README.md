@@ -21,7 +21,8 @@ If you like what you see, simply download the html and start using it yourself. 
 Here is a bare template brain cloud that I suggest using, as it does not have any existing notes yet.
 
 ## What is brain cloud based on?
-It is a tuned web-notebook that is based on an open source project called [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5). They describe it as *a complete interactive wiki in JavaScript. It can be used as a single HTML file in the browser or as a powerful Node.js application. It is highly customisable: the entire user interface is itself implemented in hackable WikiText.*
+It is a tuned web-notebook that is based on an open source project called [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5). Here's their description: 
+*TiddlyWiki is a complete interactive wiki in JavaScript. It can be used as a single HTML file in the browser or as a powerful Node.js application. It is highly customisable: the entire user interface is itself implemented in hackable WikiText.*
 
 So where does brain cloud fit into this? It represents the completed product of a LOT of hours customizing and tweaking a vanilla flavored TiddlyWiki with a focus on presenting an interface that is tuned for highly productive note taking. 
 
