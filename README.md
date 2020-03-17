@@ -1,4 +1,4 @@
-# <img src="/cloud-upload-alt-solid.svg" width="40"> brain-cloud
+# <img src="/cloud-upload-alt-solid.svg" width="35"> brain-cloud
 
 ## What is brain cloud?
 It is a personal knowledge database focused on *mentally* efficient storage and retrieval or note-like information. 
