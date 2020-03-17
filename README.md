@@ -14,11 +14,13 @@ It is a personal knowledge database focused on *mentally* efficient storage and 
   - vim navigation
 
 ## How do I use it?
-Just click here to start exploring! <a href="research_highlights/SVT_Decomposition_Theorem.pdf">brain cloud</a>
+Just click here to start exploring!
+* <a href="research_highlights/SVT_Decomposition_Theorem.pdf">brain cloud</a>
 
 If you like what you see, simply download the html and start using it yourself. There are various mechanisms by which you can save your notes so that they persist. In the brain cloud go to the control panel > Saving. I use GitHub saver as this allows easy version control, but other great options exist as well.
 
 Here is a bare template brain cloud that I suggest using, as it does not have any existing notes yet.
+* <a href="research_highlights/SVT_Decomposition_Theorem.pdf">empty brain cloud</a>
 
 ## What is brain cloud based on?
 It is a tuned web-notebook that is based on an open source project called [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5). Here's their description:
