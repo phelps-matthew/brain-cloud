@@ -15,7 +15,7 @@ It is a personal knowledge database focused on *mentally* efficient storage and 
 
 ## How do I use it?
 Just click here to start exploring!
-* <a href="research_highlights/SVT_Decomposition_Theorem.pdf">brain cloud</a>
+* <a href="index.html">brain cloud</a>
 
 If you like what you see, simply save the html and start using it yourself. There are various mechanisms by which you can save your notes so that they persist. In the brain cloud go to the control panel > Saving. I use GitHub saver as this allows easy version control, but other great options exist as well.
 
