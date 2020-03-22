@@ -1,7 +1,7 @@
 # <img src="/cloud-upload-alt-solid.svg" width="35"> brain-cloud
 
 ## What is brain cloud?
-It is a personal knowledge database focused on *mentally* efficient storage and retrieval or note-like information. 
+It is a personal knowledge database focused on *mentally* efficient storage and retrieval of note-like information. 
 
 ![](features_1.gif)
 
