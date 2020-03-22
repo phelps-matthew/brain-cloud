@@ -3,7 +3,7 @@
 ## What is brain cloud?
 It is a personal knowledge database focused on *mentally* efficient storage and retrieval of note-like information. 
 
-![](features_2.gif)
+![](features_1.gif)
 
 ## Features
 * web-based; single self-contained html file
