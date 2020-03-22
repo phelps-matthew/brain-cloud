@@ -30,5 +30,3 @@ It is a tuned web-notebook that is based on an open source project called [Tiddl
 So where does brain cloud fit into this? It represents the completed product of a LOT of hours customizing and tweaking a vanilla flavored TiddlyWiki with a focus on presenting an interface that is tuned for highly productive note taking. 
 
 Put another way, it aims to save you the all the work by delivering a ready-to-go system so you can spend less time tweaking and more time learning!
-
-## Features
